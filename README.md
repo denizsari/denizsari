@@ -18,6 +18,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denizsari&show_icons=true&locale=en&layout=compact" alt="denizsari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denizsari&show_icons=true&locale=en" alt="denizsari" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denizsari&show_icons=true&locale=en" alt="denizsari" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=denizsari&theme=dark&hide_border=true&border_radius=25)](https://git.io/streak-stats)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=denizsari&theme=dark&hide_border=true&border_radius=25" alt="denizsari" /></p>
+
