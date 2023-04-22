@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Deniz Sarı[{Hayalet#0619}]</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Deniz Sarısülük[{Hayalet#0619}]</h1>
+<h3 align="center">A passionate mobile app developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dreamteamdev&label=Profile%20views&color=0e75b6&style=flat" alt="dreamteamdev" /> </p>
 
-<p align="center">🌱 I’m currently learning Javascript, Vue.js, React.js</p>
+<p align="center">🌱 I’m currently learning Kotlin, MVVM, Android Application Structures</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
